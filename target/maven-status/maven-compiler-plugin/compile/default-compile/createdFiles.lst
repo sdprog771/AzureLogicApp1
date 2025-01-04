@@ -1,0 +1,5 @@
+com\example\connecttologicapp1\controller\ItemController.class
+com\example\connecttologicapp1\builder\RestTemplateBuilderObj.class
+com\example\connecttologicapp1\service\ItemService.class
+com\example\connecttologicapp1\domain\LogicAppItem.class
+com\example\connecttologicapp1\ConnectToLogicApp1Application.class
